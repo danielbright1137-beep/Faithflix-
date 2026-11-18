@@ -1,46 +1,83 @@
-Data Analytics Portfolio
+DATA ANALYTICS & RESEARCH PORTFOLIO
 
-About Me
+Research Projects
 
-I am a Data Analyst passionate about transforming raw data into meaningful insights that support informed decision-making.
+1. Analysis of Multidimensional Poverty Status of Farming Households in Lapai LGA, Niger State
 
-My areas of specialisation include:
+Research Area: Agricultural Economics and Rural Development
 
+Project Overview:
+
+This research examined the multidimensional poverty status of farming households in Lapai Local Government Area of Niger State, Nigeria. It assessed the different dimensions of poverty affecting farming households and measured their level of deprivation.
+
+Research Methodology:
+
+- Study population: Farming households in Lapai LGA.
+- Sample size: 92 farming households.
+- Sampling coverage: Four communities, with 23 households selected from each community.
+- Data collection: Structured questionnaires.
+- Analytical method: Multidimensional Poverty Index (MPI).
+
+Key Findings:
+
+- Headcount Ratio (H): 0.34
+- Intensity of Poverty (A): 0.40
+- Multidimensional Poverty Index (MPI): 0.13
+
+Skills Demonstrated:
+
+- Questionnaire Design
 - Data Collection
-- Questionnaire and Survey Design
-- Data Cleaning and Preparation
-- Exploratory Data Analysis
+- Sampling Techniques
+- Data Preparation
 - Statistical Analysis
+- Poverty Measurement
 - Data Interpretation
-- Data Visualisation
-- Research and Report Writing
+- Research Writing
 
-Areas of Interest
+---
 
-I am interested in applying data analytics to explore real-world issues and uncover insights across different sectors, including:
+Ongoing and Upcoming Research Projects
 
-- Social Media Analytics
-- Digital Business and E-commerce
-- Movie and Entertainment Industry
-- Agriculture and Rural Development
-- Consumer Behaviour
+2. Social Media Engagement Analysis
+
+An investigation into how different content formats influence audience engagement across social media platforms.
+
+3. E-commerce Sales Performance Analysis
+
+An analysis of online business sales patterns, customer purchasing behaviour and revenue performance.
+
+4. Movie Industry Performance Analysis
+
+An investigation into movie ratings, audience preferences, genres and commercial performance.
+
+---
 
 Tools and Technologies
 
 - Microsoft Excel
+- Python
 - SQL
 - Power BI
 
-Projects
+---
 
-This repository showcases my data analytics projects, research, datasets, visualisations and findings.
+Repository Purpose
 
-Each project demonstrates my approach to identifying research problems, collecting and preparing data, conducting analysis, interpreting results and communicating insights.
+This repository documents my research projects, data analysis processes, datasets, statistical findings and visualisations. It demonstrates the application of data collection, analytical techniques and research methodologies to real-world problems.
 
-My Goal
+---
 
-To use data analytics and research skills to solve practical problems, discover trends and support evidence-based decision-making.
+Research Approach
 
-Connect With Me
+My analytical approach follows these stages:
 
-I welcome opportunities for collaboration, research and data analytics projects.
+1. Identification of Research Problems
+2. Research Design and Questionnaire Development
+3. Data Collection
+4. Data Cleaning and Preparation
+5. Data Analysis
+6. Interpretation of Results
+7. Visualisation and Presentation of Findings
+
+
